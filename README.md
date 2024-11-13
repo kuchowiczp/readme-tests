@@ -1,6 +1,10 @@
 
 # readme-tests
 
+<div style="font-size: 100px;">
+  test
+</div>
+
 <img src="test.svg" style="width: 200px; height: 200px; image-rendering: pixelated;"/>
 
 
